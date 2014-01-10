@@ -1,0 +1,23 @@
+{
+  "family": "alijs",
+  "name": "araletest",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/alijs/araletest",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alijs/araletest.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["araletest.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
